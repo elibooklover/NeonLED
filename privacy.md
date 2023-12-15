@@ -44,4 +44,4 @@ These Terms constitute the entire agreement between you and us with respect to t
 
 ## 10. Contact Us
 
-If you have any questions about these Terms, please contact us at elibooklover at gmail dot com.
+If you have any questions about these Terms, please contact [us](mailto:elibooklover@gmail.com).

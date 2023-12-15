@@ -16,3 +16,5 @@ Features
 ![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png)
 
 For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
+
+If you need support or have requests, please contact [us](mailto:elibooklover@gmail.com).
