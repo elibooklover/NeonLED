@@ -7,13 +7,13 @@ With distinctive and captivating LED effects, coupled with innovative materials,
 Features
 * Provides various LED effects to enhance the bullet screen's visual appeal.
 * Supports both landscape and portrait screens.
-* Enables text blinking functionality.
-* Allows adjustment of the text blinking speed.
+* Allows scrolling text with adjustable speed.
+* Enables text blinking functionality with an adjustable blinking speed.
 * Facilitates easy font changes.
 * Quickly adjusts text size and color.
 * Supports dark mode.
 
-![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png)
+![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png)![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png)![Screenshot3](https://elibooklover.github.io/NeonLED/Screenshot3.png)
 
 For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
 
