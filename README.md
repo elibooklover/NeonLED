@@ -13,7 +13,7 @@ Features
 * Quickly adjusts text size and color.
 * Supports dark mode.
 
-![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png) ![Screenshot3](https://elibooklover.github.io/NeonLED/Screenshot3.png)
+![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png) 
 
 For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
 
