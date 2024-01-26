@@ -1,17 +1,16 @@
 # NeonLED
 
-This LED Banner will make you shine anywhere!
+NeonLED will make you shine anywhere! Use NeonLED at concerts, parties, events, and more to illuminate your surroundings with vibrant colors and dynamic LED effects!
 
-With distinctive and captivating LED effects, coupled with innovative materials, your bullet screen effortlessly stands out from the crowd. The minimalist user interface empowers you to swiftly craft your personalized bullet screen.
+With captivating LED effects, your bullet screen will stand out from the crowd. The simple user interface allows you to quickly craft a personalized bullet screen.
 
-Features
-* Provides various LED effects to enhance the bullet screen's visual appeal.
-* Supports both landscape and portrait screens.
-* Allows scrolling text with adjustable speed.
-* Enables text blinking functionality with an adjustable blinking speed.
-* Facilitates easy font changes.
-* Quickly adjusts text size and color.
-* Supports dark mode.
+Features:
+- Provides various LED effects to enhance the visual appeal of your message.
+- Supports both landscape and portrait modes.
+- Text can scroll and/or blink, with adjustable speeds.
+- Supports a variety of fonts.
+- Quickly adjust text size and color, as well as background color.
+- Supports dark mode.
 
 ![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png) 
 
