@@ -12,8 +12,12 @@ Features:
 - Quickly adjust text size and color, as well as background color.
 - Supports dark mode.
 
+<a href="https://apps.apple.com/us/app/neonled-led-banner/id6474363843">
+  <img src="https://elibooklover.github.io/Colorizer/appstore.png" alt="appstore" width="128"/>
+</a>
+
 ![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png) 
 
 For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
 
-If you need support or have requests, please contact [us](mailto:elibooklover@gmail.com).
+If you need support or have requests, please contact [us](mailto:appdeveloperkim@gmail.com).
