@@ -1,23 +1,20 @@
 # NeonLED
 
-NeonLED will make you shine anywhere! Use NeonLED at concerts, parties, events, and more to illuminate your surroundings with vibrant colors and dynamic LED effects!
+**Make your message shine.**
 
-With captivating LED effects, your bullet screen will stand out from the crowd. The simple user interface allows you to quickly craft a personalized bullet screen.
+NeonLED turns your iPhone into a colorful scrolling LED banner.
 
-Features:
-- Provides various LED effects to enhance the visual appeal of your message.
-- Supports both landscape and portrait modes.
-- Text can scroll and/or blink, with adjustable speeds.
-- Supports a variety of fonts.
-- Quickly adjust text size and color, as well as background color.
-- Supports dark mode.
+[Visit the website](https://elibooklover.github.io/NeonLED/) · [Download on the App Store](https://apps.apple.com/us/app/neonled-led-banner/id6474363843)
 
-<a href="https://apps.apple.com/us/app/neonled-led-banner/id6474363843">
-  <img src="https://elibooklover.github.io/Colorizer/appstore.png" alt="appstore" width="128"/>
-</a>
+<img src="Screenshot1.png" alt="Customize text" width="240"> <img src="Screenshot2.png" alt="Scrolling LED text" width="240">
 
-![Screenshot1](https://elibooklover.github.io/NeonLED/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/NeonLED/Screenshot2.png) 
+## Features
 
-For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
+- Scrolling and blinking text with adjustable speeds
+- Custom fonts, text sizes, text and background colors
+- Portrait and landscape modes
+- Dark mode
 
-If you need support or have requests, please contact [us](mailto:appdeveloperkim@gmail.com).
+## Support
+
+[Privacy Policy](https://elibooklover.github.io/NeonLED/privacy.html) · [Terms & Conditions](https://elibooklover.github.io/NeonLED/terms.html) · [Email support](mailto:appdeveloperkim@gmail.com)
